@@ -1,0 +1,42 @@
+# Project & Repository Plan Document
+
+## 1. Project Plan
+### Goal(s)
+- Demonstrate understanding of GitHub
+- Build a good repository
+- Learn how to use GitHub
+
+### Needs
+- A main and dev branch.
+- Commits with good documentation
+- Issues with good documentation
+- readme and plan
+
+### Steps
+1. Create a `dev` branch from `main`.
+2. Build the project structure
+3. Make multiple issues with tasks needed to be done.
+4. Make commits on `dev` and pull to main.
+5. Update readme and plan documentation
+
+---
+
+## 2. Repository Setup & Maintenance Plan
+### Goal(s)
+- Maintain a clean and organized repo that clearly shows version control skills.
+- Keep `main` updated
+- Use GitHub tools correctly
+
+### Needs
+- Documented commits
+- Issues with labels and closed
+- Pull request
+- Plan document and README.
+
+### Steps
+1. Create dev branch
+2. Create, tag, and close issues
+3. Commit with clear messages
+5. Pull from dev to main
+6. Create readme and plan
+7. Add the qmd and pdf file
